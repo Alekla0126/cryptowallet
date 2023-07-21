@@ -15,5 +15,5 @@ const cp_uniSwap = "images/cp_uniSwap.png";
 const cp_card1 = "images/cp_card1.png";
 const cp_visa = "images/cp_visa.png";
 const cp_chip = "images/cp_chip.png";
-const cp_user = "images/cp_user.webp";
+const cp_user = "images/cp_user.png";
 const cp_profile = "images/cp_profile.png";

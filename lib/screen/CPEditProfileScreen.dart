@@ -9,9 +9,9 @@ class CPEditProfileScreen extends StatefulWidget {
 }
 
 class CPEditProfileScreenState extends State<CPEditProfileScreen> {
-  TextEditingController fullNameController = TextEditingController(text: "Jelly Grande");
+  TextEditingController fullNameController = TextEditingController(text: "User");
   TextEditingController contactNumberController = TextEditingController(text: "9845612337");
-  TextEditingController emailController = TextEditingController(text: "Jelly123@gmail.com");
+  TextEditingController emailController = TextEditingController(text: "user@gmail.com");
 
   FocusNode fullNameFocusNode = FocusNode();
   FocusNode contactNumberFocusNode = FocusNode();

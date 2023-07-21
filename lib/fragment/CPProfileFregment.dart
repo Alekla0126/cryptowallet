@@ -75,7 +75,7 @@ class CPProfileFragmentState extends State<CPProfileFragment> {
                       ),
                       SizedBox(height: 8),
                       Text(
-                        nameProfile.validate().isEmpty ? "Jelly Grande" : '$nameProfile',
+                        nameProfile.validate().isEmpty ? "User" : '$nameProfile',
                         textAlign: TextAlign.start,
                         overflow: TextOverflow.clip,
                         style: boldTextStyle(size: 18),
