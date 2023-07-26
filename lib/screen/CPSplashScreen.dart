@@ -1,7 +1,7 @@
-import 'package:coinpro_prokit/main.dart';
-import 'package:coinpro_prokit/screen/CPWalkThroughScreen.dart';
-import 'package:coinpro_prokit/utils/CPColors.dart';
-import 'package:coinpro_prokit/utils/CPImages.dart';
+import 'package:coinpro/main.dart';
+import 'package:coinpro/screen/CPWalkThroughScreen.dart';
+import 'package:coinpro/utils/CPColors.dart';
+import 'package:coinpro/utils/CPImages.dart';
 import 'package:flutter/material.dart';
 import 'package:nb_utils/nb_utils.dart';
 

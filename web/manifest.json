@@ -1,6 +1,6 @@
 {
-    "name": "coinpro_prokit",
-    "short_name": "coinpro_prokit",
+    "name": "coinpro",
+    "short_name": "coinpro",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

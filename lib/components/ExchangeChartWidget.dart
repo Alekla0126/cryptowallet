@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:nb_utils/nb_utils.dart';
-import 'package:coinpro_prokit/utils/CPColors.dart';
-import 'package:coinpro_prokit/utils/CPDataProvider.dart';
+import 'package:coinpro/utils/CPColors.dart';
+import 'package:coinpro/utils/CPDataProvider.dart';
 import 'package:syncfusion_flutter_charts/charts.dart';
 
 class ExchangeChartWidget extends StatefulWidget {

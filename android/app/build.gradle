@@ -34,7 +34,7 @@ android {
 
     defaultConfig {
         // TODO: Specify your own unique Application ID (https://developer.android.com/studio/build/application-id.html).
-        applicationId "com.example.coinpro_prokit"
+        applicationId "com.example.coinpro"
         minSdkVersion 21
         targetSdkVersion 33
         versionCode 2

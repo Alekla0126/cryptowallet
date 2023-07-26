@@ -1,6 +1,6 @@
 import 'dart:io';
 
-import 'package:coinpro_prokit/utils/CPColors.dart';
+import 'package:coinpro/utils/CPColors.dart';
 import 'package:flutter/material.dart';
 import 'package:nb_utils/nb_utils.dart';
 import 'package:scan/scan.dart';

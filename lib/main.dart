@@ -1,7 +1,7 @@
-import 'package:coinpro_prokit/screen/CPSplashScreen.dart';
-import 'package:coinpro_prokit/store/AppStore.dart';
-import 'package:coinpro_prokit/utils/AppTheme.dart';
-import 'package:coinpro_prokit/utils/CPDataProvider.dart';
+import 'package:coinpro/screen/CPSplashScreen.dart';
+import 'package:coinpro/store/AppStore.dart';
+import 'package:coinpro/utils/AppTheme.dart';
+import 'package:coinpro/utils/CPDataProvider.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_mobx/flutter_mobx.dart';
 import 'package:nb_utils/nb_utils.dart';

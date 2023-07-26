@@ -1,9 +1,9 @@
-import 'package:coinpro_prokit/main.dart';
+import 'package:coinpro/main.dart';
 import 'package:flutter/material.dart';
 import 'package:nb_utils/nb_utils.dart';
-import 'package:coinpro_prokit/model/CPModel.dart';
-import 'package:coinpro_prokit/screen/CPStatisticScreen.dart';
-import 'package:coinpro_prokit/utils/CPDataProvider.dart';
+import 'package:coinpro/model/CPModel.dart';
+import 'package:coinpro/screen/CPStatisticScreen.dart';
+import 'package:coinpro/utils/CPDataProvider.dart';
 
 class CPAllCoinList extends StatefulWidget {
   @override

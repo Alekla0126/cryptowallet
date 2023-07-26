@@ -1,4 +1,4 @@
-package com.example.coinpro_prokit
+package com.example.coinpro
 
 import io.flutter.embedding.android.FlutterActivity
 

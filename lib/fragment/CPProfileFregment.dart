@@ -1,10 +1,10 @@
-import 'package:coinpro_prokit/fragment/CPNotificationFragment.dart';
-import 'package:coinpro_prokit/main.dart';
-import 'package:coinpro_prokit/model/CPModel.dart';
-import 'package:coinpro_prokit/screen/CPEditProfileScreen.dart';
-import 'package:coinpro_prokit/utils/CPColors.dart';
-import 'package:coinpro_prokit/utils/CPDataProvider.dart';
-import 'package:coinpro_prokit/utils/CPImages.dart';
+import 'package:coinpro/fragment/CPNotificationFragment.dart';
+import 'package:coinpro/main.dart';
+import 'package:coinpro/model/CPModel.dart';
+import 'package:coinpro/screen/CPEditProfileScreen.dart';
+import 'package:coinpro/utils/CPColors.dart';
+import 'package:coinpro/utils/CPDataProvider.dart';
+import 'package:coinpro/utils/CPImages.dart';
 import 'package:flutter/material.dart';
 import 'package:nb_utils/nb_utils.dart';
 import 'package:url_launcher/url_launcher.dart';
@@ -172,7 +172,7 @@ class CPProfileFragmentState extends State<CPProfileFragment> {
                         } else if (index == 1) {
                           CPNotificationFragment(isNotification: true).launch(context);
                         } else if (index == 2) {
-                          String url = 'https://wordpress.iqonic.design/docs/product/prokit-flutter/';
+                          String url = 'https://alekla.com/presentation';
                           launch(url);
                         } else if (index == 3) {
                           toast("Setting");

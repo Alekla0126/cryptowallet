@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:nb_utils/nb_utils.dart';
-import 'package:coinpro_prokit/utils/CPColors.dart';
-import 'package:coinpro_prokit/main.dart';
+import 'package:coinpro/utils/CPColors.dart';
+import 'package:coinpro/main.dart';
 
 class CPEditProfileScreen extends StatefulWidget {
   @override

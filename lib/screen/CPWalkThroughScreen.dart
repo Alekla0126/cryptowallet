@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:nb_utils/nb_utils.dart';
-import 'package:coinpro_prokit/components/CPIdCardScreen.dart';
-import 'package:coinpro_prokit/components/CPVerifyEmail.dart';
-import 'package:coinpro_prokit/utils/CPColors.dart';
+import 'package:coinpro/components/CPIdCardScreen.dart';
+import 'package:coinpro/components/CPVerifyEmail.dart';
+import 'package:coinpro/utils/CPColors.dart';
 import 'package:smooth_page_indicator/smooth_page_indicator.dart';
 
 class CPWalkThroughScreen extends StatefulWidget {

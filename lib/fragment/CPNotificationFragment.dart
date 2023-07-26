@@ -1,11 +1,11 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/painting.dart';
 import 'package:nb_utils/nb_utils.dart';
-import 'package:coinpro_prokit/model/CPModel.dart';
-import 'package:coinpro_prokit/utils/CPColors.dart';
-import 'package:coinpro_prokit/utils/CPDataProvider.dart';
-import 'package:coinpro_prokit/utils/CPImages.dart';
-import 'package:coinpro_prokit/main.dart';
+import 'package:coinpro/model/CPModel.dart';
+import 'package:coinpro/utils/CPColors.dart';
+import 'package:coinpro/utils/CPDataProvider.dart';
+import 'package:coinpro/utils/CPImages.dart';
+import 'package:coinpro/main.dart';
 
 class CPNotificationFragment extends StatefulWidget {
   final bool isNotification;

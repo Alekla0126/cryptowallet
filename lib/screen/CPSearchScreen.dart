@@ -1,12 +1,12 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_slidable/flutter_slidable.dart';
 import 'package:nb_utils/nb_utils.dart';
-import 'package:coinpro_prokit/model/CPModel.dart';
-import 'package:coinpro_prokit/screen/CPStatisticScreen.dart';
-import 'package:coinpro_prokit/utils/CPColors.dart';
-import 'package:coinpro_prokit/utils/CPDataProvider.dart';
-import 'package:coinpro_prokit/utils/CPImages.dart';
-import 'package:coinpro_prokit/main.dart';
+import 'package:coinpro/model/CPModel.dart';
+import 'package:coinpro/screen/CPStatisticScreen.dart';
+import 'package:coinpro/utils/CPColors.dart';
+import 'package:coinpro/utils/CPDataProvider.dart';
+import 'package:coinpro/utils/CPImages.dart';
+import 'package:coinpro/main.dart';
 
 class CPSearchScreen extends StatefulWidget {
   @override

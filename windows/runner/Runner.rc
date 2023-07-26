@@ -90,12 +90,12 @@ BEGIN
         BLOCK "040904e4"
         BEGIN
             VALUE "CompanyName", "com.alekla0126" "\0"
-            VALUE "FileDescription", "coinpro_prokit" "\0"
+            VALUE "FileDescription", "coinpro" "\0"
             VALUE "FileVersion", VERSION_AS_STRING "\0"
-            VALUE "InternalName", "coinpro_prokit" "\0"
+            VALUE "InternalName", "coinpro" "\0"
             VALUE "LegalCopyright", "Copyright (C) 2023 com.alekla0126. All rights reserved." "\0"
-            VALUE "OriginalFilename", "coinpro_prokit.exe" "\0"
-            VALUE "ProductName", "coinpro_prokit" "\0"
+            VALUE "OriginalFilename", "coinpro.exe" "\0"
+            VALUE "ProductName", "coinpro" "\0"
             VALUE "ProductVersion", VERSION_AS_STRING "\0"
         END
     END

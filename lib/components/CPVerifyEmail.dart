@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:nb_utils/nb_utils.dart';
-import 'package:coinpro_prokit/utils/CPImages.dart';
+import 'package:coinpro/utils/CPImages.dart';
 
 import 'CPIdCardScreen.dart';
 
