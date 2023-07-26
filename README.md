@@ -1,4 +1,4 @@
-# coinpro_prokit
+# Coin Pro
 
 A new Flutter project.
 
